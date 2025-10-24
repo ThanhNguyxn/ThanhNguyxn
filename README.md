@@ -9,7 +9,7 @@ My goal isn't just to learn, but to *understand*—I'm on a journey to master th
 - 👯 I’m looking to collaborate on: **Challenging projects that push my boundaries and expose me to new domains.**
 - 💬 Ask me about: **Anything. If I don't know it, I'll learn it.**
 - 📫 How to reach me: **[I will update this later]**
--⚡ Ambition: **To master the entire IT stack, from bare metal to abstract intelligence.**
+- ⚡ Ambition: **To master the entire IT stack, from bare metal to abstract intelligence.**
 
 <h3 align="left">My Learning Toolkit:</h3>
 <p align="left">
