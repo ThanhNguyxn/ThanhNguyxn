@@ -33,9 +33,9 @@ My goal isn't just to learn, but to *understand*—I'm on a journey to master th
 
 <h3 align="left">My GitHub Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThanhNguyxn&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="ThanhNguyxn's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-thanhnguyxns-projects.vercel.app/api?username=ThanhNguyxn&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="ThanhNguyxn's GitHub Stats" />
   <br/><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThanhNguyxn&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats-thanhnguyxns-projects.vercel.app/api/top-langs?username=ThanhNguyxn&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <br/>
