@@ -47,32 +47,11 @@ My goal isn't just to learn, but to *understand*—I'm on a journey to master th
 
 <br/>
 
-<h3 align="left">🚀 Featured Projects:</h3>
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [SheerID-Verification-Tool](https://github.com/ThanhNguyxn/SheerID-Verification-Tool) | ⭐ 779 stars - A lightweight tool for SheerID verification workflows | HTML, JS |
-| [student-card-generator](https://github.com/ThanhNguyxn/student-card-generator) | Generate student ID cards easily | JavaScript |
-| [aurora-ledger](https://github.com/ThanhNguyxn/aurora-ledger) | Personal Finance Management App | React, Node.js, MongoDB |
-| [github-time-capsule](https://github.com/ThanhNguyxn/github-time-capsule) | Time capsule for GitHub memories | Next.js, TypeScript |
-| [git-aura](https://github.com/ThanhNguyxn/git-aura) | 🔮 Turn GitHub stats into Generative Art | Python |
-| [awesome-free-apis](https://github.com/ThanhNguyxn/awesome-free-apis) | Curated collection of free APIs | Python |
-| [payslip-generator](https://github.com/ThanhNguyxn/payslip-generator) | Generate payslips easily | React, Vite |
-
-<br/>
-
 <h3 align="left">My GitHub Stats:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats-thanhnguyxns-projects.vercel.app/api?username=ThanhNguyxn&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="ThanhNguyxn's GitHub Stats" />
   <br/><br/>
   <img align="center" src="https://github-readme-stats-thanhnguyxns-projects.vercel.app/api/top-langs?username=ThanhNguyxn&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<br/>
-
-<h3 align="left">🔥 GitHub Streak:</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThanhNguyxn&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <br/>
