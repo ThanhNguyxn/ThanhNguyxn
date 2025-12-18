@@ -61,6 +61,13 @@ My goal isn't just to learn, but to *understand*—I'm on a journey to master th
   <i>(My social links will be updated here soon...)</i>
 </p>
 
+## Support ❤️
+
+If you find my work useful, you can support me here:
+
+- ⭐ GitHub Sponsors: https://github.com/sponsors/ThanhNguyxn
+- ☕ Buy Me a Coffee: https://buymeacoffee.com/thanhnguyxn
+
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ThanhNguyxn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
