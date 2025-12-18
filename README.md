@@ -63,10 +63,8 @@ My goal isn't just to learn, but to *understand*—I'm on a journey to master th
 
 ## Support ❤️
 
-If you find my work useful, you can support me here:
-
-- ⭐ GitHub Sponsors: https://github.com/sponsors/ThanhNguyxn
-- ☕ Buy Me a Coffee: https://buymeacoffee.com/thanhnguyxn
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-blue?logo=github)](https://github.com/sponsors/ThanhNguyxn)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?logo=buy-me-a-coffee)](https://buymeacoffee.com/thanhnguyxn)
 
 ---
 <p align="center">
