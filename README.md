@@ -54,24 +54,6 @@ My goal isn't just to learn, but to *understand*—I'm on a journey to master th
 
 ---
 
-<h3 align="left">🌍 Open Source Contributions</h3>
-
-Contributing to the tools and languages I use every day.
-
-**Compilers & Runtimes** — [CPython](https://github.com/python/cpython) · [Rust](https://github.com/rust-lang/rust) · [Go](https://github.com/golang/go) · [Kotlin](https://github.com/JetBrains/kotlin) · [Swift](https://github.com/swiftlang/swift) · [TypeScript](https://github.com/microsoft/TypeScript) · [Node.js](https://github.com/nodejs/node)
-
-**Editors** — [Neovim](https://github.com/neovim/neovim) · [Vim](https://github.com/vim/vim) · [Zed](https://github.com/zed-industries/zed)
-
-**Microsoft** — [Terminal](https://github.com/microsoft/terminal) · [PowerToys](https://github.com/microsoft/PowerToys) · [VibeVoice](https://github.com/microsoft/VibeVoice)
-
-**AI / ML** — [HuggingFace Transformers](https://github.com/huggingface/transformers) · [NVIDIA PersonaPlex](https://github.com/NVIDIA/personaplex) · [HunyuanImage 3.0](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0) · [Z-Image](https://github.com/Tongyi-MAI/Z-Image) · [GLM-OCR](https://github.com/zai-org/GLM-OCR)
-
-**AI Coding Tools** — [OpenAI Codex](https://github.com/openai/codex) · [Gemini CLI](https://github.com/google-gemini/gemini-cli) · [Ollama](https://github.com/ollama/ollama) · [OpenCode](https://github.com/anomalyco/opencode) · [OpenHands](https://github.com/OpenHands/OpenHands) · [OpenClaw](https://github.com/openclaw/openclaw) · [Cline](https://github.com/cline/cline) · [Roo Code](https://github.com/RooCodeInc/Roo-Code) · [Aider](https://github.com/Aider-AI/aider) · [Goose](https://github.com/block/goose) · [Continue](https://github.com/continuedev/continue) · [Plandex](https://github.com/plandex-ai/plandex) · [Kimi CLI](https://github.com/MoonshotAI/kimi-cli) · [UI-TARS](https://github.com/bytedance/UI-TARS-desktop) · [Oh My OpenCode](https://github.com/code-yeongyu/oh-my-opencode)
-
-**Other** — [OpenCut](https://github.com/OpenCut-app/OpenCut) · [Cloud Mail](https://github.com/maillab/cloud-mail) · [Office Tool](https://github.com/YerongAI/Office-Tool) · [LeetCode](https://github.com/doocs/leetcode) · [VSCodium](https://github.com/VSCodium/vscodium)
-
-<br/>
-
 <h3 align="left">My GitHub Stats:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats-one-alpha-69.vercel.app/api?username=ThanhNguyxn&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="ThanhNguyxn's GitHub Stats" />
